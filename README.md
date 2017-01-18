@@ -1,1 +1,1 @@
-# ft-client-spec
+# EXPath File Transfer Client Specification, see http://kuberam.ro/specs/expath/ft-client/ft-client.html.
